@@ -48,8 +48,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamza-nb&theme=tokyonight&hide_border=true&cache_seconds=0" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=hamza-nb&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+---
+
+## 📄 Resume
+
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/hamza-nb/hamza-nb/raw/main/Hamza_Nait_Boubker_Software_Engineer_CV.pdf)
 
 ---
 
