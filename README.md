@@ -48,7 +48,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamza-nb&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=hamza-nb&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
