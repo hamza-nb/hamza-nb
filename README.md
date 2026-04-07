@@ -73,7 +73,7 @@ I design and build robust backend services, automate infrastructure, and deliver
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamza-nb&theme=tokyonight&hide_border=true&v=2" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=hamza-nb&theme=tokyonight&hide_border=true&v=3" height="160"/>
 </p>
 
 ---
