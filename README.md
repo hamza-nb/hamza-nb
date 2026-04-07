@@ -1,55 +1,89 @@
 # Hi, I'm Hamza 👋
 
-**Software Engineer** with 4+ years of experience building scalable backend services, microservices architectures, and cloud infrastructure. Currently working at **4Digital** in Tangier, Morocco.
+Backend Engineer specializing in scalable microservices, cloud infrastructure, and high-performance systems.
+
+I design and build robust backend services, automate infrastructure, and deliver reliable, production-ready systems.
+
+---
+
+## 🚀 About Me
+
+- 💼 Software Engineer at **4Digital** (Tangier, Morocco)
+- 🧠 4+ years building scalable APIs and microservices
+- ☁️ Strong focus on cloud architecture, DevOps, and automation
+- ⚙️ Experienced in designing secure, maintainable, and high-performance systems
+- 🤝 Agile team collaboration (Scrum / Kanban)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Backend**
+- Java (Spring Boot), TypeScript (NestJS), Python
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+**Cloud & DevOps**
+- AWS, Docker, Kubernetes, Terraform
 
-**DevOps & Cloud**
+**CI/CD & Tools**
+- GitHub Actions, Jenkins, Linux, Git
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Architecture**
+- Microservices, REST APIs, Scalable Systems, Infrastructure as Code
+
+**Testing**
+- Unit Testing, Integration Testing
 
 ---
 
-## 🚀 What I Do
+## 🏆 Key Achievements
 
-- 🏗️ **Backend Engineering** — Designing and building robust RESTful APIs and microservices with Spring Boot & NestJS
-- ☁️ **Cloud & Infrastructure** — Managing scalable cloud infrastructure on AWS using Terraform (IaC)
-- 🐳 **Containerization** — Migrating legacy systems to Docker-based microservices deployed on Kubernetes
-- 🔄 **CI/CD Automation** — Building deployment pipelines with GitHub Actions and Jenkins
-- 🧪 **Quality** — Ensuring reliability through unit and integration testing practices
+- 🚀 Migrated legacy systems to Docker-based microservices deployed on Kubernetes
+- ⚡ Built scalable backend services supporting enterprise-grade applications
+- ☁️ Designed and managed cloud infrastructure using Terraform (IaC)
+- 🔄 Implemented CI/CD pipelines improving deployment efficiency
+- 🧪 Ensured system reliability through unit and integration testing
 
 ---
 
-## 📜 Certifications
+## ⭐ Featured Projects
 
-- 🟠 **AWS** — Getting Started with Machine Learning (Amazon Web Services)
-- 🔵 **Google Cloud** — Managing Machine Learning Projects
-- 🔷 **IBM** — Big Data Engineer | IoT Cloud Developer | Artificial Intelligence Analyst
-- 🎓 **Duke University** — Data Science Math Skills
+> ⚠️ I’ll keep this now empty
+
+### 🔹 Microservices Platform
+- Built a scalable microservices architecture using NestJS & Docker
+- Integrated API gateway, authentication, and service communication
+- Deployed on Kubernetes with CI/CD pipelines
+
+### 🔹 Cloud Infrastructure Automation
+- Designed infrastructure using Terraform on AWS
+- Automated provisioning and deployment pipelines
+- Focused on scalability, cost optimization, and reliability
+
+### 🔹 High-Performance REST API
+- Developed RESTful APIs with Spring Boot
+- Optimized performance and response time
+- Implemented testing and monitoring strategies
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- <p align="center">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamza-nb&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="160"/>
+</p> -->
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamza-nb&theme=tokyonight&hide_border=true&v=1" />
+  <img src="https://streak-stats.demolab.com?user=hamza-nb&theme=tokyonight&hide_border=true&v=2" height="160"/>
 </p>
+
+---
+
+## 📜 Certifications
+
+- AWS — Machine Learning Foundations
+- Google Cloud — Machine Learning Project Management
+- IBM — Big Data Engineer | AI Analyst | IoT Cloud Developer
+- Duke University — Data Science Math Skills
 
 ---
 
@@ -67,4 +101,4 @@
 
 ---
 
-*📍 Tangier, Morocco*
+📍 Tangier, Morocco
