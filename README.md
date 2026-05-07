@@ -1,6 +1,5 @@
 # Hi, I'm Hamza 👋
-Software & DevOps Engineer specializing in scalable microservices, cloud infrastructure, and event-driven systems.
-I design and build robust backend services, automate infrastructure, and deliver reliable, production-ready systems at scale.
+DevOps & Software Engineer with 4 years of experience designing and delivering scalable cloud-native and microservices architectures. Skilled in Java, Spring Boot, AWS, Docker, Kubernetes, Terraform, and CI/CD automation, with strong expertise in object-oriented design, event-driven systems, deployment automation, and cloud infrastructure. Passionate about building reliable, high-performance platforms with a focus on scalability, resilience, and zero-downtime delivery.
 
 ---
 
