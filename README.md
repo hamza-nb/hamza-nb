@@ -16,20 +16,17 @@ I design and build robust backend services, automate infrastructure, and deliver
 
 ## 🛠️ Tech Stack
 
-**Backend**
-- Java (Spring Boot), REST APIs, Apache Kafka, Spring Security, JPA
+**Backend Engineering**
+- Java, Spring ecosystem, Microservices Architecture, REST APIs, OOP, Design Patterns (SOLID).
 
 **Cloud & DevOps**
-- AWS (EC2, S3, RDS, ECS, ECR), Terraform, Docker, Kubernetes
+- AWS, Kubernetes (deployment & operations), Docker, CI/CD pipelines, Terraform (IaC), GitOps practices (ArgoCD), Monitoring & Observability (Prometheus, Grafana, CloudWatch).
 
-**CI/CD & Tools**
-- GitHub Actions, Jenkins, Linux, Git
-
-**Architecture**
-- Microservices, Hexagonal Architecture, Clean Architecture, Event-Driven Systems, IaC
+**Cloud-Native & Distributed Systems**
+- Microservices architecture, event-driven systems, Kafka, scalable distributed systems, high availability & fault tolerance.
 
 **Testing**
-- Unit, Integration & E2E Testing (JUnit, Mockito), TDD
+- Unit, Integration & E2E Testing (JUnit, Mockito), TDD.
 
 ---
 
